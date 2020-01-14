@@ -40,6 +40,8 @@ Release
 /xmplay/Release
 /xmplay/*.dll
 /dependencies
+/build/*
+!.travis.yml
 
 /**/test.zip
 /**/foo_input_vgmstream.fb2k-component
